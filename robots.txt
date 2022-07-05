@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /islands/
+Sitemap: https://superfresh.deno.dev/sitemap.xml
